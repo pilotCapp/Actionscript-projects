@@ -10,6 +10,7 @@ As these side projects are some of my first and most simple projects during my s
 A simple drawing program that used mouse events and circles of different color and size to create a drawing program. I imported a picture of a colorwheel and used this to create my own color selection, and the result was a pretty good drawing program. Additionally I wanted to create a figure detection algorithm so I utilized my math knowlege to create corners whenever the gradient changed by a certain amount, and the result was a pretty bad but working figure detection algorithm. 
 
 [drawing swf file](./resources/drawingFerdig.swf)
+
 [figure drawing swf file (could use some work)](./resources/drawingFiguresExtraSuper.swf)
 
 # game1
